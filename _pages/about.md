@@ -28,6 +28,8 @@ My current research interests include edge computing, distributed computing, cod
 - **T. Li**, X. He, R. Jin and H. Dai, "Task-Decoding Assisted Cooperative Transmission for Coded Edge Computing," **IEEE Transactions on Wireless Communications**, vol. 23, no. 8, pp. 9044-9058, Aug. 2024. (IF=8.9)
 - X. He, **T. Li**, R. Jin and H. Dai, "Delay-Optimal Coded Offloading for Distributed Edge Computing in Fading Environments," **IEEE Transactions on Wireless Communications**, vol. 21, no. 12, pp. 10796-10808, Dec. 2022. (IF=8.9)
 - **T. Li**, X. He, S. Jiang and J. Liu, "A survey of privacy-preserving offloading methods in mobile-edge computing," **Journal of Network and Computer Applications**, Vol. 203, pp. 103395, Jul. 2022. (IF=7.7)
+- Y. He, **T. Li**, X. He, R. Jin and H. Dai, "Partial Replication for Delay-Optimal Distributed Edge Computing," **IEEE Transactions on Communications**, minor revision. (co-first author) (IF=7.2)
+- **T. Li**, X. He, H. Dai, "Coding-Aware Rate Splitting for Efficient Offloading in Coded Edge Computing," submitted to **IEEE Transactions on Wireless Communications** (IF=8.9)
   
 ## Conferences
 - **T. Li**, Y. He, D. Geng, X. He and R. Jin, "Partial Replication-Enabled Cooperative Transmission for Distributed Edge Computing," **2023 International Conference on Wireless Communications and Signal Processing (WCSP)**, Hangzhou, China, 2023.
