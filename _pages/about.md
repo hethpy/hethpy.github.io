@@ -36,8 +36,8 @@ My current research interests include edge computing, distributed computing, cod
 <br>
 
 # Academic Activities
-TPC member of International Conference on Wireless Communications and Signal Processing, WCSP
-Reviewer of International Conference on Wireless Communications and Signal Processing, WCSP
+- TPC member of International Conference on Wireless Communications and Signal Processing, WCSP
+- Reviewer of International Conference on Wireless Communications and Signal Processing, WCSP
 
 <br>
 
